@@ -7,11 +7,11 @@
 
 5 Repositories will be used for these projects, namely:
 
-<li>Project 1 -- CMPG323-Overview-35526734  *this Repo*<li/>
-<li>Project 2 -- CMPG323-Project2-35526734<li/>
-<li>Project 3 -- CMPG323-Project3-35526734<li/>
-<li>Project 4 -- CMPG323-Project4-35526734<li/>
-<li>Project 5 -- CMPG323-Project5-35526734<li/>
+<li>Project 1 -- CMPG323-Overview-35526734  *this Repo*
+<li>Project 2 -- CMPG323-Project2-35526734
+<li>Project 3 -- CMPG323-Project3-35526734
+<li>Project 4 -- CMPG323-Project4-35526734
+<li>Project 5 -- CMPG323-Project5-35526734
 
 
 ## How the Repositories will work. 
@@ -23,4 +23,9 @@ As with industry standards a branching stratagy will be followed that include th
 
 ## What will be going on in the .gitignore file.
 There may be multiple uses for this file, but mostly the main use is to store credentials that will otherwise not be seen by the public, and to exclude unneccessary files that is not needed for the repository.
+
+I hope you enjoy the work that will be impemented in these projects
+
+Niel Nortier
+35526734
 
